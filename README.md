@@ -1,1 +1,2 @@
-# interface-calc-tkinter
+# user = pato
+# senha = 1234
